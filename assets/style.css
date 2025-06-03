@@ -4,7 +4,6 @@ body {
 }
 * {
 	font-family: 'Inter';
-	font-style: normal;
 }
 .top-header {
 	background-color: white;
@@ -241,7 +240,7 @@ form textarea {
 }
 input[type="submit"] {
 	background-color: #BEB45A;
-	padding: .5em 1em
+	padding: .5em 1em;
 }
 
 @media all and (max-width: 1180px) {
