@@ -243,6 +243,13 @@ input[type="submit"] {
 	padding: .5em 1em;
 }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+	background-color: #000;
+	border-radius: 50%;
+	background-size: 50% 50%;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;
